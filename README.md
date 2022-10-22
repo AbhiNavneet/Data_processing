@@ -1,6 +1,6 @@
 # Data_processing
 
-## Features of the make_s:
+## Features of the makesenseofcensus.csv dataset:
 
 Age: Age of the person
 
@@ -24,7 +24,6 @@ hours-per-week: No. of hours per week the person works
 income: Annual Income of the person 
 0 : Less than or equal to 50K 
 1 : More than 50K 
-
 
 
 ## Features of 'KAG_Conversion_Data.csv':
